@@ -17,6 +17,15 @@ a. None known
 4.) References used to complete the assignment
 a. In class resources
 b. Chris Chang
+c. Assignment 1
+d. https://www.learncpp.com/cpp-tutorial/chars/
+e. Data Sctructures & Algorithms
+f. https://www.cprogramming.com/tutorial/templates.html
+g. https://stackoverflow.com/questions/2639255/return-a-null-object-if-search-result-not-found
+h. https://www.tutorialspoint.com/cplusplus/cpp_templates.htm
+i. https://www.youtube.com/watch?v=I-hZkUa9mIs
+j. https://stackoverflow.com/questions/495021/why-can-templates-only-be-implemented-in-the-header-file
+
 
 
 5.) Instructions for running the assignment
